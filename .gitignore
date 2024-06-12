@@ -1,0 +1,28 @@
+# Maven build directory
+/target/
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+**/src/main/resources/META-INF/maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans specific files
+/
